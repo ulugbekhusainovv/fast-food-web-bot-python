@@ -1,9 +1,9 @@
-# myvenv
-# myvenv/
-# Byte-compiled / optimized files
-__pycache__/
-*.pyc
-*.pyo
+# # myvenv
+# # myvenv/
+# # Byte-compiled / optimized files
+# __pycache__/
+# *.pyc
+# *.pyo
 
-# Caches
-*.cache/
+# # Caches
+# *.cache/
